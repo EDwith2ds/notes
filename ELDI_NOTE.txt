@@ -1,0 +1,18 @@
+sensors and actuators get parameters from physical enviroment
+
+set up and loop are fundamental for the controller to run
+
+4 major areas 
+-before the setup: where you define your global parameters  
+-setup function: where you put parameters or code meant to run once in the program eg initialization of ports, sensors , pins etc
+-loop function: where you put control programs 
+- after the loop: where you store custom codes 
+
+data types in arduino:
+integer(int),float(float), boolean(bool), string(string), double(double) etc- those in parenthesis are written in caps
+
+NB: always good to name variables and functions after eaht you want them to do, numenclature canhelp locate particular functions 
+NB: arduino is rugged*(wetin rugged mean?)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
